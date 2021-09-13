@@ -5,7 +5,7 @@
 ---
 ## 📃 Sobre 
 
-O projeto **ExFormulario** é um meio para exercitar testes utilizando Cypress.
+O projeto **ExercicioFormulario--Cypress** é um meio para exercitar testes utilizando Cypress.
 O formulario utilizado no exercicio foi o ["DUMMY REGISTRATION FORM"](https://seubarriga.wcaquino.me/).
 
 Contem o preenchimento dos campos, submissão do formulario e validação da mensagem apresentada.
